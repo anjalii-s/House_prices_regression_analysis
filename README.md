@@ -1,5 +1,7 @@
 **🏡 Regression Analysis of King County Housing Prices**
+
 **📌 Overview**
+
 This project is a regression analysis lab report conducted at the Transport and Telecommunication Institute (TSI) in collaboration with UWE Bristol. The dataset contains 21,597 housing records from King County, Washington (including Seattle), with 18 variables describing property features. The primary goal is to predict house prices using statistical and machine learning methods.
 
 **📂 Contents**
