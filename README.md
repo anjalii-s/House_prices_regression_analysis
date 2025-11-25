@@ -5,6 +5,7 @@
 This project is a regression analysis lab report conducted at the Transport and Telecommunication Institute (TSI) in collaboration with UWE Bristol. The dataset contains 21,597 housing records from King County, Washington (including Seattle), with 18 variables describing property features. The primary goal is to predict house prices using statistical and machine learning methods.
 
 **📂 Contents**
+
 The report is organized into the following sections:
 
 Introduction – Dataset description and objectives
@@ -34,6 +35,8 @@ Random Forest Regression – Non-linear modeling for improved accuracy
 Conclusion – Insights and pricing model summary
 
 ⚙️** Methodology**
+
+
 Tools Used: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels)
 
 **Techniques Applied:**
@@ -70,6 +73,8 @@ Linear regression explains much of the variance but suffers from heteroscedastic
 Random forest regression improves predictive accuracy by capturing non-linear effects
 
 **🚀 How to Use**
+
+
 Open the report (st86860 Anjali Shibu lab 3 regression analysis.pdf)
 
 Follow the step-by-step methodology for data cleaning, EDA, and regression modeling
@@ -79,4 +84,6 @@ Replicate the analysis using the provided dataset (King County housing data)
 Extend the model with additional features or alternative ML algorithms
 
 **📌 Conclusion**
+
+
 This analysis demonstrates how statistical regression and machine learning can be applied to real estate pricing. The final pricing model highlights the importance of living area, quality grade, and bathrooms as key drivers of housing prices in King County.
